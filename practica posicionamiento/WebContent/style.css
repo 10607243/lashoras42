@@ -1,0 +1,23 @@
+@charset "UTF-8";
+.cafeterialashoras {
+	text-align: center;
+	font-weight: 900;
+	color: #880a0a;
+
+}
+
+body {
+	background-color:#fff4aa;
+}
+
+.center {
+	text-align: center;
+}
+
+.right {
+	text-align: right;
+}
+
+.red {
+	color:red;
+}
